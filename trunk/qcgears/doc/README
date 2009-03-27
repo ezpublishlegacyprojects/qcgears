@@ -1,0 +1,18 @@
+qcGears is a Google Gears implementation for the eZ Publish administration site.
+
+This is an initial proof of concept version and will be developed further should there be a need for such functionality. This functionality and sections of code were adopted from the WordPress Google Gears implementation. 
+
+INSTALLATION
+
+1. Upload qcgears folder to your extension folder. 
+2. Enable qcgears extension
+3. Clear cache
+
+4. Browse to the Google Gears status page via the link provided in the right hand administration menu. 
+
+
+EXTENDING
+
+You can extend qcGears support to your own extensions through the creation of *.manifest files within your extensions and designs. These files are written in json format and provide the url paths to static assets you would like cached locally. 
+
+When providing your own manifest files, browse back to the Google Gears status page to have the manifest updated and refreshed within your browser.

@@ -1,0 +1,4 @@
+* Cache manifest to var directory
+* Enable support for eZ OE 5.0.0
+* Enable support for ezwebin
+* Enable support for ezflow

@@ -1,0 +1,7 @@
+{
+	"entries": [
+		{ "url": "/extension/qcgears/design/standard/javascript/gears_init.js" },
+		{ "url": "/extension/qcgears/design/standard/javascript/qcgears.js" },
+		{ "url": "/extension/qcgears/design/admin/images/qcgears.png" }
+	]
+}
